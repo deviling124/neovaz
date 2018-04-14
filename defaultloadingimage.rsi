@@ -1,0 +1,20 @@
+# 주석 표시
+# $ 경로 표시
+# @ 제목 표시
+
+
+$bitmaps\interface
+
+
+@ 1번째 디폴트 이미지	(단)
+LoadingSheet_Default_1_1.gtx
+LoadingSheet_Default_1_2.gtx
+LoadingSheet_Default_1_3.gtx
+LoadingSheet_Default_1_4.gtx
+
+
+@ 2번째 디폴트 이미지	(다크엘프)
+LoadingSheet_Default_2_1.gtx
+LoadingSheet_Default_2_2.gtx
+LoadingSheet_Default_2_3.gtx
+LoadingSheet_Default_2_4.gtx

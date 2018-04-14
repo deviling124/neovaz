@@ -1,0 +1,2236 @@
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 130.000000
+               Height 130.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 160.000000
+               Height 160.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 35.000000
+                   BottomRadius 50.000000
+                   Height 500.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 120.000000
+                   BottomRadius 60.000000
+                   Height 300.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 60.000000
+                   BottomRadius 50.000000
+                   Height 700.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 400.000000
+               Height 400.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 95.000000
+                   BottomRadius 75.000000
+                   Height 100.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 80.000000
+                   BottomRadius 60.000000
+                   Height 100.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 330.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 350.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 170.000000
+               Height 170.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 90.000000
+                   BottomRadius 90.000000
+                   Height 300.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 70.000000
+                   BottomRadius 50.000000
+                   Height 400.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 120.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 250.000000
+               Height 250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 270.000000
+               Height 270.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 125.000000
+                   BottomRadius 90.000000
+                   Height 70.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 80.000000
+                   BottomRadius 50.000000
+                   Height 400.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 205.000000
+               Height 205.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 40.000000
+                   BottomRadius 150.000000
+                   Height 30.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 30.000000
+                   BottomRadius 130.000000
+                   Height 30.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 300.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 160.000000
+                   BottomRadius 50.000000
+                   Height 300.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 350.000000
+               Height 350.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 140.000000
+               Height 140.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 140.000000
+                   BottomRadius 40.000000
+                   Height 250.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 30.000000
+                   BottomRadius 40.000000
+                   Height 300.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 70.000000
+               Height 70.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 110.000000
+                   BottomRadius 80.000000
+                   Height 50.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 220.000000
+               Height 220.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 180.000000
+               Height 180.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 240.000000
+               Height 240.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 230.000000
+               Height 230.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 15.000000
+               Height 15.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 80.000000
+               Height 80.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 115.000000
+               Height 115.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 140.000000
+                   BottomRadius 10.000000
+                   Height 35.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 260.000000
+               Height 260.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 60.000000
+                   BottomRadius 10.000000
+                   Height 7.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 60.000000
+               Height 60.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 250.000000
+               Height 150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 40.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 350.000000
+               Height 120.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 450.000000
+               Height 150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 50.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 190.000000
+               Height 190.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 90.000000
+               Height 90.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 125.000000
+               Height 125.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 1.000000
+                   BottomRadius 40.000000
+                   Height 250.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 100.000000
+                   BottomRadius 160.000000
+                   Height 60.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 170.000000
+                   BottomRadius 120.000000
+                   Height 50.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 450.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 110.000000
+               Height 110.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 30.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 60.000000
+                   BottomRadius 90.000000
+                   Height 70.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 160.000000
+                   BottomRadius 160.000000
+                   Height 20.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 10.000000
+               Height 10.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 20.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 35.000000
+               Height 35.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 10.000000
+                   BottomRadius 35.000000
+                   Height 40.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 30.000000
+                   BottomRadius 30.000000
+                   Height 200.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 10.000000
+                   BottomRadius 70.000000
+                   Height 20.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 45.000000
+               Height 45.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 70.000000
+               Height 250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 600.000000
+               Height 600.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 320.000000
+               Height 320.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 500.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 5.000000
+                   BottomRadius 60.000000
+                   Height 30.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 120.000000
+                   BottomRadius 75.000000
+                   Height 100.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 75.000000
+               Height 75.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 85.000000
+               Height 85.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 80.000000
+                   BottomRadius 100.000000
+                   Height 150.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 100.000000
+                   BottomRadius 70.000000
+                   Height 50.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 100.000000
+                   BottomRadius 20.000000
+                   Height 200.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 120.000000
+                   BottomRadius 120.000000
+                   Height 180.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 210.000000
+               Height 210.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 60.000000
+                   BottomRadius 60.000000
+                   Height 110.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 80.000000
+                   BottomRadius 50.000000
+                   Height 250.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 200.000000
+                   BottomRadius 20.000000
+                   Height 50.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 700.000000
+               Height 700.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1000.000000
+               Height 600.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 90.000000
+                   BottomRadius 90.000000
+                   Height 130.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 230.000000
+               Height 160.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 270.000000
+               Height 200.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 120.000000
+                   BottomRadius 120.000000
+                   Height 200.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 220.000000
+               Height 250.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 150.000000
+                   BottomRadius 125.000000
+                   Height 150.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 550.000000
+               Height 550.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 420.000000
+               Height 420.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 20
+                   TopRadius 185.000000
+                   BottomRadius 80.000000
+                   Height 30.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 330.000000
+               Height 330.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 210.000000
+                   BottomRadius 126.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 450.000000
+               Height 450.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 60.000000
+               Height 220.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 70.000000
+                   BottomRadius 70.000000
+                   Height 500.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 400.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 5.000000
+                   BottomRadius 100.000000
+                   Height 300.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 250.000000
+               Height 270.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 250.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 700.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 450.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 700.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 150.000000
+                   BottomRadius 100.000000
+                   Height 50.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 370.000000
+               Height 370.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 10.000000
+               Height 130.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 160.000000
+                   BottomRadius 160.000000
+                   Height 20.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 10.000000
+                   BottomRadius 1.000000
+                   Height 350.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 7.000000
+               Height 75.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 280.000000
+               Height 280.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 70.000000
+                   BottomRadius 2.000000
+                   Height 200.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 5
+                   TopRadius 120.000000
+                   BottomRadius 100.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 1.000000
+                   BottomRadius 15.000000
+                   Height 200.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 150.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 150.000000
+                   BottomRadius 90.000000
+                   Height 140.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 25.000000
+               Height 150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 180.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 10.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 15.000000
+               Height 60.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 70.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 150.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 125.000000
+                   BottomRadius 87.000000
+                   Height 120.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 130.000000
+                   BottomRadius 80.000000
+                   Height 90.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 145.000000
+                   BottomRadius 90.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 8.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 160.000000
+                   BottomRadius 100.000000
+                   Height 30.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 8.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 90.000000
+                   BottomRadius 90.000000
+                   Height 900.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 5
+                   TopRadius 110.000000
+                   BottomRadius 110.000000
+                   Height 120.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 65.000000
+                   BottomRadius 120.000000
+                   Height 70.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 100.000000
+                   BottomRadius 100.000000
+                   Height 30.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 310.000000
+               Height 310.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 90.000000
+                   BottomRadius 90.000000
+                   Height 2000.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 450.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 170.000000
+               Height 450.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 130.000000
+                   BottomRadius 80.000000
+                   Height 90.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 145.000000
+                   BottomRadius 90.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 8.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 80.000000
+                   BottomRadius 80.000000
+                   Height 120.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 145.000000
+                   BottomRadius 105.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 8.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 150.000000
+                   BottomRadius 150.000000
+                   Height 40.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 5.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 340.000000
+               Height 340.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 380.000000
+               Height 380.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 30.000000
+                   BottomRadius 80.000000
+                   Height 1500.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 460.000000
+               Height 460.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1000.000000
+               Height 1000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 900.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 900.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 130.000000
+               Height 900.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 900.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 60.000000
+                   BottomRadius 80.000000
+                   Height 1300.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 5.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 400.000000
+               Height 600.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 130.000000
+                   BottomRadius 105.000000
+                   Height 150.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 50.000000
+                   BottomRadius 50.000000
+                   Height 50.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 145.000000
+               Height 145.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 150.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 70.000000
+                   BottomRadius 20.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 300.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 5
+                   TopRadius 175.000000
+                   BottomRadius 90.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 5.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 250.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 150.000000
+                   BottomRadius 100.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 6.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 150.000000
+                   BottomRadius 100.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 5.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 250.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 240.000000
+               Height 300.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 15
+                   TopRadius 90.000000
+                   BottomRadius 70.000000
+                   Height 350.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 55.000000
+               Height 55.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 65.000000
+               Height 65.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 140.000000
+               Height 150.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 150.000000
+                   BottomRadius 50.000000
+                   Height 50.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 15
+                   TopRadius 120.000000
+                   BottomRadius 60.000000
+                   Height 60.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 50.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 150.000000
+                   BottomRadius 60.000000
+                   Height 150.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 260.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 135.000000
+                   BottomRadius 90.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 6.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 150.000000
+                   BottomRadius 100.000000
+                   Height 80.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 5.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 185.000000
+               Height 185.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 650.000000
+               Height 650.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 600.000000
+                   BottomRadius 600.000000
+                   Height 150.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 5.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1300.000000
+               Height 1300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 120.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 15
+                   TopRadius 100.000000
+                   BottomRadius 70.000000
+                   Height 60.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 170.000000
+                   BottomRadius 150.000000
+                   Height 100.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 120.000000
+                   BottomRadius 90.000000
+                   Height 90.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 262.500000
+               Height 262.500000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 130.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 15.000000
+               Height 35.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 400.000000
+                   BottomRadius 400.000000
+                   Height 300.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 10.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 400.000000
+                   BottomRadius 400.000000
+                   Height 100.000000
+                   MapingMethod 0
+                   height_tiling_ratio 2.000000
+                   width_tiling_ratio 6.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 610.000000
+               Height 610.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 550.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 550.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 600.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 400.000000
+               Height 300.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 110.000000
+                   BottomRadius 80.000000
+                   Height 340.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 100.000000
+                   BottomRadius 55.000000
+                   Height 50.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 5
+                   TopRadius 100.000000
+                   BottomRadius 55.000000
+                   Height 50.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 480.000000
+               Height 480.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 520.000000
+               Height 570.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 550.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 530.000000
+               Height 530.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 180.000000
+                   BottomRadius 160.000000
+                   Height 130.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 375.000000
+               Height 375.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 580.000000
+               Height 580.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 120.000000
+                   BottomRadius 170.000000
+                   Height 230.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 600.000000
+               Height 1000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 900.000000
+               Height 700.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 145.000000
+                   BottomRadius 145.000000
+                   Height 90.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 145.000000
+                   BottomRadius 145.000000
+                   Height 90.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 440.000000
+               Height 440.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 90.000000
+                   BottomRadius 70.000000
+                   Height 350.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 6.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 230.000000
+               Height 240.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 800.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 200.000000
+                   BottomRadius 200.000000
+                   Height 180.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 5.000000
+                   BottomRadius 30.000000
+                   Height 200.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 220.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 110.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 180.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 430.000000
+               Height 430.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 130.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 80.000000
+               Height 250.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 170.000000
+                   BottomRadius 200.000000
+                   Height 30.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 8.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 400.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 600.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 900.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 900.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 600.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 10
+                   TopRadius 0.000000
+                   BottomRadius 30.000000
+                   Height 10.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 28.000000
+               Height 28.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 4
+                   TopRadius 20.000000
+                   BottomRadius 20.000000
+                   Height 200.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 290.000000
+               Height 290.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 800.000000
+               Height 800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 1000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 520.000000
+               Height 520.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 245.000000
+               Height 245.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 70.000000
+               Height 300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 157.000000
+               Height 157.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 175.000000
+               Height 175.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 314.000000
+               Height 314.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 70.000000
+               Height 120.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 180.000000
+               Height 220.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 180.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 130.000000
+               Height 150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 510.000000
+               Height 510.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1410.000000
+               Height 1410.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 640.000000
+               Height 640.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 564.000000
+               Height 564.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 285.000000
+               Height 285.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 275.000000
+               Height 275.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 630.000000
+               Height 630.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 60.000000
+               Height 180.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 100.000000
+                   BottomRadius 100.000000
+                   Height 20.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 470.000000
+               Height 470.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 720.000000
+                   BottomRadius 300.000000
+                   Height 50.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 4.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 630.000000
+                   BottomRadius 200.000000
+                   Height 50.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 695.000000
+               Height 695.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 70.000000
+               Height 280.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 465.000000
+               Height 465.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 255.000000
+               Height 255.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 705.000000
+               Height 705.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 15.000000
+               Height 90.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1250.000000
+               Height 1250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2500.000000
+               Height 2500.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 880.000000
+                   BottomRadius 860.000000
+                   Height 7500.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 6.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2600.000000
+               Height 2600.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2700.000000
+               Height 2700.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 4000.000000
+               Height 4000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 2000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1200.000000
+               Height 1200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 3000.000000
+               Height 3000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1700.000000
+               Height 1700.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1600.000000
+               Height 1600.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 900.000000
+               Height 900.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2300.000000
+               Height 2300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 3200.000000
+               Height 3200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2200.000000
+               Height 2200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 800.000000
+               Height 900.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 5000.000000
+               Height 5000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 3400.000000
+               Height 3400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 4200.000000
+               Height 4200.000000
+------------- No Dup Ellipes---------------------------
+SEP_DATA_Ellipse  RingNO 10
+                  DivisionNO 10
+                  size_x 900.000000
+                  size_y 900.000000
+                  size_z 200.000000
+                  SEP_ELLIPSE_TYPE1
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 7000.000000
+               Height 7000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 6000.000000
+               Height 6000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 8000.000000
+               Height 8000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 350.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 350.000000
+               Height 300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 220.000000
+               Height 300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 140.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 260.000000
+               Height 320.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 3500.000000
+               Height 3500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2800.000000
+               Height 2800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1500.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1500.000000
+               Height 1500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 3000.000000
+               Height 4000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2000.000000
+               Height 2000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1900.000000
+               Height 1900.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1800.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1000.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 1000.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 100.000000
+                   BottomRadius 150.000000
+                   Height 1000.000000
+                   MapingMethod 0
+                   height_tiling_ratio 5.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1200.000000
+               Height 4000.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 500.000000
+                   BottomRadius 1500.000000
+                   Height 5000.000000
+                   MapingMethod 0
+                   height_tiling_ratio 5.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 800.000000
+                   BottomRadius 500.000000
+                   Height 3000.000000
+                   MapingMethod 0
+                   height_tiling_ratio 5.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 600.000000
+------------- No Dup Ellipes---------------------------
+SEP_DATA_Ellipse  RingNO 10
+                  DivisionNO 10
+                  size_x 2900.000000
+                  size_y 2900.000000
+                  size_z 2900.000000
+                  SEP_ELLIPSE_TYPE0
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 12000.000000
+               Height 12000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 13000.000000
+               Height 13000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1330.000000
+               Height 1330.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1270.000000
+               Height 1270.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 2000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2000.000000
+               Height 30.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 350.000000
+               Height 400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1700.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1600.000000
+               Height 1700.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1600.000000
+               Height 2000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2000.000000
+               Height 2100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1500.000000
+               Height 1600.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1350.000000
+               Height 1400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2000.000000
+               Height 2300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 60.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1400.000000
+               Height 1400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 950.000000
+               Height 950.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1100.000000
+               Height 1100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 560.000000
+               Height 560.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 600.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1450.000000
+               Height 1450.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1200.000000
+               Height 1000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 23.000000
+               Height 23.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 18.000000
+               Height 18.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 850.000000
+               Height 450.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 550.000000
+               Height 350.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 220.000000
+               Height 280.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1250.000000
+               Height 1000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 400.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1000.000000
+               Height 5000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1200.000000
+               Height 5000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2000.000000
+               Height 5000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2200.000000
+               Height 5000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 3000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 600.000000
+               Height 3000.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 6
+                   TopRadius 2700.000000
+                   BottomRadius 2700.000000
+                   Height 6000.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 6.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 2400.000000
+                   BottomRadius 2400.000000
+                   Height 8000.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 1000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 680.000000
+               Height 680.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 600.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1000.000000
+               Height 1400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2000.000000
+               Height 1400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1100.000000
+               Height 2100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 5500.000000
+               Height 5500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 4700.000000
+               Height 4700.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 4300.000000
+               Height 4300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 6500.000000
+               Height 6500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 220.000000
+               Height 150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 135.000000
+               Height 135.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 405.000000
+               Height 405.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 410.000000
+               Height 410.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 225.000000
+               Height 225.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 750.000000
+               Height 750.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 427.500000
+               Height 427.500000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1260.000000
+               Height 1260.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2250.000000
+               Height 2250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1282.500000
+               Height 1282.500000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1237.500000
+               Height 1237.500000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 720.000000
+               Height 720.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 570.000000
+               Height 570.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 420.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 250.000000
+               Height 400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 320.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 400.000000
+               Height 550.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 210.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 70.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 130.000000
+               Height 2000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 200.000000
+               Height 2000.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 400.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 20.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 120.000000
+                   BottomRadius 80.000000
+                   Height 180.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 750.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 130.000000
+               Height 70.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 7
+                   TopRadius 100.000000
+                   BottomRadius 65.000000
+                   Height 70.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 5
+                   TopRadius 180.000000
+                   BottomRadius 130.000000
+                   Height 90.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 300.000000
+                   BottomRadius 100.000000
+                   Height 150.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 5.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 800.000000
+               Height 700.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 3000.000000
+                   BottomRadius 1000.000000
+                   Height 500.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 80.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 100.000000
+               Height 80.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 140.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 60.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 500.000000
+               Height 1500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 320.000000
+               Height 1800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 230.000000
+               Height 180.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 180.000000
+               Height 130.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 130.000000
+                   BottomRadius 120.000000
+                   Height 200.000000
+                   MapingMethod 1
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1350.000000
+               Height 1350.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1180.000000
+               Height 1180.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1120.000000
+               Height 1120.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1130.000000
+               Height 1130.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 800.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 80.000000
+               Height 300.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 3
+                   TopRadius 90.000000
+                   BottomRadius 90.000000
+                   Height 2000.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 300.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 600.000000
+               Height 700.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 54.000000
+               Height 54.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 105.000000
+               Height 105.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 110.000000
+                   BottomRadius 35.000000
+                   Height 120.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 25.000000
+               Height 25.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 765.000000
+               Height 765.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 2115.000000
+               Height 2115.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 690.000000
+               Height 690.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 780.000000
+               Height 780.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1050.000000
+               Height 1050.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 390.000000
+               Height 390.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 130.000000
+               Height 400.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 90.000000
+               Height 320.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 150.000000
+               Height 350.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 140.000000
+               Height 330.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 130.000000
+               Height 330.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 320.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 300.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 340.000000
+               Height 280.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 330.000000
+               Height 250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 320.000000
+               Height 250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1150.000000
+               Height 1150.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 540.000000
+               Height 540.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 600.000000
+                   BottomRadius 600.000000
+                   Height 200.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 6.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 12
+                   TopRadius 1.000000
+                   BottomRadius 300.000000
+                   Height 20.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 20
+                   TopRadius 60.000000
+                   BottomRadius 60.000000
+                   Height 200.000000
+                   MapingMethod 0
+                   height_tiling_ratio 1.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 20
+                   TopRadius 56.000000
+                   BottomRadius 56.000000
+                   Height 200.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 1.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 9.000000
+               Height 9.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 13.000000
+               Height 13.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 120.000000
+               Height 20.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 8.000000
+               Height 8.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 12.000000
+               Height 6.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 8
+                   TopRadius 600.000000
+                   BottomRadius 10.000000
+                   Height 80.000000
+                   MapingMethod 2
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 3.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 36.000000
+               Height 36.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1250.000000
+               Height 1500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1450.000000
+               Height 1700.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 1650.000000
+               Height 1900.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 5
+                   TopRadius 600.000000
+                   BottomRadius 350.000000
+                   Height 1000.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 0.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 320.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 350.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 250.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 48.000000
+               Height 48.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 27.000000
+               Height 27.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 400.000000
+               Height 450.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 450.000000
+               Height 500.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 260.000000
+               Height 280.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 180.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 113.000000
+               Height 113.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 147.000000
+               Height 147.000000
+------------- No Dup Cylinder---------------------------
+SEP_DATA_Cylinder  AdjustFactorCreationYPos 0.000000
+                   SubDivision 20
+                   TopRadius 130.000000
+                   BottomRadius 130.000000
+                   Height 100.000000
+                   MapingMethod 0
+                   height_tiling_ratio 0.000000
+                   width_tiling_ratio 2.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 60.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 80.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 15.000000
+               Height 50.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 15.000000
+               Height 40.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 130.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 100.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 32.000000
+               Height 32.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 60.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 25.000000
+               Height 60.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 80.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 90.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 170.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 170.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 180.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 180.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 67.000000
+               Height 67.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 120.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 120.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 120.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 42.000000
+               Height 42.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 180.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 80.000000
+               Height 220.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 57.000000
+               Height 57.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 30.000000
+               Height 65.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 40.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 50.000000
+               Height 200.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 220.000000
+               Height 40.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 20.000000
+               Height 230.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 60.000000
+               Height 230.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 70.000000
+               Height 270.000000
+------------- No Dup Quad---------------------------
+SEP_DATA_Quad  Width 52.000000
+               Height 52.000000
+======================== Summary ========================
+Degree of Cylinder Duplication : (0 / 119)
+Degree of Quad Duplication : (0 / 382)
+Degree of Ellipse Duplication : (0 / 2)
+=========================================================
